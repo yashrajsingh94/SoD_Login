@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="19" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="19" timestamp="2018-11-28 18:48:46" hostname="yashrajs - KAI-DT161.adventurena.com" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\yashrajs\\Katalon Studio\\SoDLogin\\Reports\\New Test Suite\\20181128_184843"/>
+         <property name="logFiles" value="C:\\Users\\yashrajs\\Katalon Studio\\SoDLogin\\Reports\\New Test Suite\\20181128_184843\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="yashrajs - KAI-DT161.adventurena.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.9.0.1"/>
+         <property name="browser" value="Chrome 70.0.3538.102"/>
+         <property name="hostAddress" value="172.20.11.132"/>
+         <property name="sessionId" value="d1a6f9a33b176f2ede5d3bdc1df1e7c3"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/LaunchBrowser/Browser" classname="Test Cases/LaunchBrowser/Browser" status="PASSED">
+         <system-out><![CDATA[2018-11-28 18:48:46 - [TEST_CASE][PASSED] - Test Cases/LaunchBrowser/Browser: Test Cases/LaunchBrowser/Browser
+
+2018-11-28 18:48:47 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2018-11-28 18:48:47 - [MESSAGE][INFO] - Starting 'Chrome (headless)' driver
+
+2018-11-28 18:48:47 - [MESSAGE][INFO] - Action delay is set to 1 seconds
+
+2018-11-28 18:48:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-11-28 18:48:54 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2018-11-28 18:48:56 - [MESSAGE][PASSED] - Current window maximized
+
+2018-11-28 18:48:56 - [TEST_STEP][PASSED] - navigateToUrl("http://www.schoolofdragons.com/"): Navigate to 'http://www.schoolofdragons.com/' successfully
+
+2018-11-28 18:49:03 - [MESSAGE][PASSED] - Navigate to 'http://www.schoolofdragons.com/' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-11-28 18:48:46 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/LaunchBrowser/Browser]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
